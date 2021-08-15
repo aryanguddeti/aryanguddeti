@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryanguddeti
 - :computer: I’m interested in Web Development
-- 🌱 I’m currently learning frontend web devlopment and Python
+- 🌱 I’m currently learning frontend web devlopment and Python :python:
 - 
 
 <!---
