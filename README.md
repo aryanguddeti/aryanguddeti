@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aryanguddeti
-- :computer: I’m interested in Web Development
+- :computer: I’m interested in Machine Learning
 - 👨🏻‍💻 I’m currently learning frontend web devlopment and Python🐍
 
 <!---
