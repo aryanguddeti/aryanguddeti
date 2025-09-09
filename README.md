@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryanguddeti
 - :computer: I’m interested in Machine Learning & Software Development
-- 👨🏻‍💻 Currently in my 4th year of B.Tech
+- 👨🏻‍💻 Currently pursuing a Master's in Data Science
 
 
 <!---
